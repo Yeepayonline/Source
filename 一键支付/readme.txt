@@ -1,23 +1,23 @@
-#-------------------     ╠Йв╪╟Фё╗PC║╒йж╩З╤кё╘╡Бйтук╨епео╒     ----------------------------------------------------
-#уФй╣©ш©Нё╛╡Бйт╫П╤НпХтз1╥ж-10т╙ж╝╪Дё╛productcatalog=1
-#ил╩╖╠Ю╨е
+#-------------------     Ф═┤Е┤├Г┴┬О╪┬Ф┴▀Ф°╨Г╚╞О╪┴Ф╣▀Х╞∙Х╢╕Е▐╥Д©║Ф│╞     ----------------------------------------------------
+#Г°÷Е╝·Ф┴ёФ╛╬О╪▄Ф╣▀Х╞∙И┤▒И╒²И°─Е°╗1Е┬├-10Е┘┐Д╧▀И≈╢О╪▄productcatalog=1
+#Е∙├Ф┬╥Г╪√Е▐╥
 merchantAccount=10000418926
-#ил╩╖╧╚т©
+#Е∙├Ф┬╥Е┘╛И▓╔
 merchantPublicKey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwlpjGSN7c2iVDYA6liFvAdghPDQnWTEvvmlBZQb1ZnqTLZoRhcK/fCjs9IvuqeNnP0VF0scqBPy92jBds2aVIiXJ0ZknYi6T2CNlQ93qDVHtq3iIChfNrr7KCIeBCrG7KD2W3EMb2IxUHt6oI1Tza/FfdZs/r2yyJJubd0j7DFQIDAQAB
-#ил╩╖к╫т©
+#Е∙├Ф┬╥Г╖│И▓╔
 merchantPrivateKey=MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBALCWmMZI3tzaJUNgDqWIW8B2CE8NCdZMS++aUFlBvVmepMtmhGFwr98KOz0i+6p42c/RUXSxyoE/L3aMF2zZpUiJcnRmSdiLpPYI2VD3eoNUe2reIgKF82uvsoIh4EKsbsoPZbcQxvYjFQe3qgjVPNr8V91mz+vbLIkm5t3SPsMVAgMBAAECgYAdF6JxwF2fCv1qnS+si8t56LgztdUyDf3Qqp6kJdV5J07FB821c+g1mazqxJGrox9XQofl7siLBIrgP/I4B59YDtoX7zr9l2YRrHUpBJOQYg7PIOWzo6CcFluK83Hne+PGnJpWrJiJd53N/8MNOAK8RrErRn8GO+UZNDSPIhkwXQJBANyR7uNI5zYJVk8djR9O/++B8UZMQ51V5NZTY0jHwtgJ9/qOi9GZInim+ivR8EOCuZCXqq+zuWNdH37or29yxpcCQQDM9BZr3T0+2qTn1IfvTCO7fSJAWRaIuZtDsoCVBuJf4BQbB7KD+zQvyzhCPwXWLgUHkHJETD2XDW++GLR5ycUzAj83JESUjaU/3RW2sayWJynUtqea63X7331WF4K6rzYGzHcyLHDH9YCoqRXh3poyRnwdqc0CH+w46w70qzcwpYECQQCPlJAAkMVPOy07nBB+/AAsYMWV/tNihWTYUDz0KhZ8xCZRqVrOSzWMJfoLrssP+L1dRzxFzIN5Rth5fCUzDL8xAkEAt9mmIOOEeZppG7iw/RqtjCB1vngYJnIm8dVWRQGVg4t4qMXaxazKewT6rfd9xU3494SdM9x4AXq5ukj4it/ajA==
-#рв╠╕╧╚╚h
+#Ф≤⌠Е╝²Е┘╛Г▌╔
 yeepayPublicKey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCdaAde+egFkLwV7THPum4nPSBAJ2MGOaYBBldbKdbnCX8emCqXtp8OB9WIWbDVQfpNAH/s53Z/NW1pmjhLbbgOGcsEGd/feh/QIL80Wv26afqlLG/lTvUavnSdQs732/5viT+G/C9YWWp4MxqKTd8Va1b9BkzfpuvqcmAtiHkPBwIDAQAB
 
 
 
-#-------------------      в╗р╣╟Ф║╒п╜рИ©ш©Н╡Бйтук╨епео╒    ----------------------------------------------------
-#уФй╣©ш©Нё╛╡Бйт╫П╤НпХтз1╥ж-10т╙ж╝╪Дё╛productcatalog=1
-#╡Бйтил╠Ю
+#-------------------      Д╦⌠Д╦ Г┴┬Ц─│Е█▐Х╝╝Ф┴ёФ╛╬Ф╣▀Х╞∙Х╢╕Е▐╥Д©║Ф│╞    ----------------------------------------------------
+#Г°÷Е╝·Ф┴ёФ╛╬О╪▄Ф╣▀Х╞∙И┤▒И╒²И°─Е°╗1Е┬├-10Е┘┐Д╧▀И≈╢О╪▄productcatalog=1
+#Ф╣▀Х╞∙Е∙├Г╪√
 merchantAccount=10000419166
-#ил╩╖к╫т©ё╨
+#Е∙├Ф┬╥Г╖│И▓╔О╪ 
 merchantPrivateKey=MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBAIrFrIoH9OoNe1wpo5s48/NUvev76CEQ/jmdqL1yMbQlC32bQXn4XxFXKCLPFLzeIFMd3lslusw8sOHca+MabVtsmHM7ibZsXZ9Cba4nQLdyR2b0Bkrx+rNydym7Z3LXMXK5wXIeEoiBmvKp9bk9Lcb1SiFLjr3yoDmPh1x5Z/k/AgMBAAECgYEAgAjVohypOPDraiL40hP/7/e1qu6mQyvcgugVcYTUmvK64U7HYHNpsyQI4eTRq1f91vHt34a2DA3K3Phzifst/RoonlMmugXg/Klr5nOXNBZhVO6i5XQ3945dUeEq7LhiJTTv0cokiCmezgdmrW8n1STZ/b5y5MIOut8Y1rwOkAECQQC+an4ako+nPNw72kM6osRT/qC589AyOav60F1bHonK6NWzWOMiFekGuvtpybgwt4jbpQxXXRPxvJkgBq873fwBAkEAupGaEcuqXtO2j0hJFOG5t+nwwnOaJF49LypboN0RX5v8nop301//P16Bs/irj5F/mAs9lFR4GZ3bxL8zs5r1PwJBALa1MDMHFlf+CcRUddW5gHCoDkjfLZJDzEVp0WoxLz5Hk2X3kFmQdHxExiCHsfjs4qD/CYx6fzyhHrygLVxgcAECQAT8z3maUDuovUCnVgzQ2/4mquEH5h8Cxe/02e46+rPrn509ZmaoMlKnXCBLjYqRATA3XLYSbAODTNS9p8wtYFECQHa/xgB+nYWoevPC/geObOLAP9HMdNVcIAJq2rgeXVI4P7cFXvksRborHmjuy1fltoR0003qlSg82mxzABbzYUs=
-#ил╩╖╧╚т©ё╨
+#Е∙├Ф┬╥Е┘╛И▓╔О╪ 
 merchantPublicKey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKxayKB/TqDXtcKaObOPPzVL3r++ghEP45nai9cjG0JQt9m0F5+F8RVygizxS83iBTHd5bJbrMPLDh3GvjGm1bbJhzO4m2bF2fQm2uJ0C3ckdm9AZK8fqzcncpu2dy1zFyucFyHhKIgZryqfW5PS3G9UohS4698qA5j4dceWf5PwIDAQAB
-#рв╠╕╧╚т©ё╨
+#Ф≤⌠Е╝²Е┘╛И▓╔О╪ 
 yeepayPublicKey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCapYPCoYdO8VNqewtfsVQvn7qkpyXY3LzznbEEpzACsYUKlQvI/uhBdDlAtM6mh0Ey/HNFLyK4fI6st16kwTMdRolplmcKXChCdXS/fXU1QvvPV9wKoKYwBePNfPW3SWrI+3Z8vtTDBv5ig6YdvYGNYRqFmRSDDHCEZARHOCAY5QIDAQAB
